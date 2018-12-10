@@ -2,5 +2,5 @@
 gitignore files for our projects
 
 
-## Systeme (Joomla, Wordpres, ....
+## Systeme (Joomla, Wordpress, ....
 Die Systeme werden in Unterverzeichnissen geordnet
